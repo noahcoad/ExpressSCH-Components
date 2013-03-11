@@ -1,0 +1,2 @@
+ExpressSCH keep custom symbols here:
+%UserProfile%\Documents\ExpressPCB\SchComponents_Custom
